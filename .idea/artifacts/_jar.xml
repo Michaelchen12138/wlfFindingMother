@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="贪吃蛇:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="贪吃蛇.jar">
+      <element id="module-output" name="王林峰找妈妈" />
+    </root>
+  </artifact>
+</component>
